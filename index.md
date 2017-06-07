@@ -15,6 +15,9 @@ Hardware:
 ## Projects
 [Kanban style project managment for BC Hackerspace related projects](https://github.com/gianlazz/BC-HackerSpace/projects)
 
+## Sponsors & Partners
+Thus far; undisclosed.
+
 ## About GitHub Pages
 [GitHub Pages](https://pages.github.com/)
 
