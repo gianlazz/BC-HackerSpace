@@ -3,6 +3,12 @@
 
 ## About the BC HackerSpace
 
+Tools:
+
+Machinery:
+
+Hardware:
+
 ## Feedback
 
 
