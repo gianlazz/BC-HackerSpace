@@ -13,4 +13,6 @@ Hardware:
 
 
 ## About GitHub Pages
+[GitHub Pages](https://pages.github.com/)
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/)
