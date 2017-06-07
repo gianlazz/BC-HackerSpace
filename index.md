@@ -11,6 +11,8 @@ Hardware:
 
 [Feedback](https://google.com)
 
+## Projects
+[Kanban style project managment for BC Hackerspace related projeccts](https://github.com/gianlazz/BC-HackerSpace/projects)
 
 ## About GitHub Pages
 [GitHub Pages](https://pages.github.com/)
