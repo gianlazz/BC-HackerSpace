@@ -10,7 +10,7 @@ Machinery:
 Hardware:
 
 [Feedback]
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIEX0I3A6mKBK8jknDUYwInX-qE3jE5NavSO6dMvFJkC3d3g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>(https://google.com)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIEX0I3A6mKBK8jknDUYwInX-qE3jE5NavSO6dMvFJkC3d3g/viewform?embedded=true" width="760" height="200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>(https://google.com)
 
 ## Projects
 [Kanban style project managment for BC Hackerspace related projeccts](https://github.com/gianlazz/BC-HackerSpace/projects)
