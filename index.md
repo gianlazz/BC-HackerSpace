@@ -1,5 +1,5 @@
 ## Guides and Documentation
-[Bellevue College Hackerspace Wiki](https://github.com/gianlazz/BC-HackerSpace/wiki)
+[Bellevue College Hackerspace Wiki](https://github.com/gianlazz/BC-Hackerspace/wiki)
 
 ## About the BC HackerSpace
 
